@@ -1,6 +1,3 @@
 # glaucoma-model
-# Michael
-Remmy
-#Promise
-#Lhakpa
+## Contributors: Michael, Remmy, Promise, Lhakpa, Ismarji
 
